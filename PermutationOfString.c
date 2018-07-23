@@ -5,7 +5,7 @@ swap(char*x,char *y)
 	temp = *x;
 	*x=*y;
 	*y=temp;
-}}
+}
 permute(char *str,char l,char r)
 {
 	if(l==r)
