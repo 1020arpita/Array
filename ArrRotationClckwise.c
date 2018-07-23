@@ -1,7 +1,7 @@
 /*Function to left rotate arr[] of size n by d*/
 void leftRotate(int arr[], int d, int n)
 {
-  int 
+  int i
   for (i = 0; i < d; i++)
    {
 	  printf("print : %d and d is %d \n",arr[i],d);
